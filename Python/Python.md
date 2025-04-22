@@ -1,4 +1,10 @@
+[Home](README.md) | [C](./C/C.md) | [Python](./Python/Python.md)
+
+---
+
 # Python
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100"/>
 
 The versatile and beginner-friendly gem of modern programming! Python shines with its simplicity and vast libraries, making it ideal for web development, data analysis, machine learning, and automation.
 

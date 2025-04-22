@@ -1,11 +1,12 @@
 // C Language
 
-// /Syntax
+// Syntax
 
 #include <stdio.h>
 
 int main(){
-    printf("Hello World!");
+    scanf("Hello World!"); // Input
+    printf("Hello"); // Output
 
     return 0;
 }

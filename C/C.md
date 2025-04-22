@@ -1,4 +1,10 @@
+[Home](README.md) | [C](./C/C.md) | [Python](./Python/Python.md)
+
+---
+
 # C Language
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100"/>
 
 Known as a foundational language, it's like the bedrock of programming. It's close to the hardware, offering control over memory and system processes. Perfect for performance-critical applications like operating systems or embedded systems.
 

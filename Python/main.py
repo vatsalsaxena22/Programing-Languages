@@ -2,7 +2,8 @@
 
 # Syntax
 
-print("Hello World!")
+input("Hello World!") # Input
+print("How are you?") # Output
 
 # Variables
 
