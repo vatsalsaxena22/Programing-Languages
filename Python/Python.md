@@ -1,4 +1,4 @@
-[Home](README.md) | [C](./C/C.md) | [Python](./Python/Python.md)
+[Home](https://vatsalsaxena22.github.io/Programing-Languages/) | [C](https://vatsalsaxena22.github.io/Programing-Languages/C/C.html) | [Python](https://vatsalsaxena22.github.io/Programing-Languages/Python/Python.html)
 
 ---
 
